@@ -5,7 +5,6 @@ An end-to-end relational database system and business intelligence SQL project d
 ---
 
 ## Project Overview
-
 * **Domain:** Healthcare Management & Hospital Operations
 * **Database Engine:** SQLite (compatible with DB Browser for SQLite, DBeaver, PostgreSQL, MySQL)
 * **Key Focus Areas:** Patient flow, doctor workloads, ward bed occupancy rates, revenue by department, medication trends, insurance settlement ratios, and length of stay (LOS).
